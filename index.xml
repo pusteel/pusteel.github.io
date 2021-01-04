@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve&#39;s Blog</title>
+    <link>https://pusteel.github.io/</link>
+    <description>Recent content on Steve&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2021 18:24:26 +0800</lastBuildDate><atom:link href="https://pusteel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://pusteel.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 04 Jan 2021 18:24:26 +0800</pubDate>
+      
+      <guid>https://pusteel.github.io/posts/hello-world/</guid>
+      <description>Hello, world!</description>
+    </item>
+    
+  </channel>
+</rss>
